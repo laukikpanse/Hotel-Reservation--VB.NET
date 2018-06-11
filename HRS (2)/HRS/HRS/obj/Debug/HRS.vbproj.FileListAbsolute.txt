@@ -1,0 +1,17 @@
+c:\users\laukik\documents\visual studio 2015\Projects\HRS\HRS\bin\Debug\HRS.exe.config
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.exe
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.pdb
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.xml
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.vbprojResolveAssemblyReference.cache
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.ADMIN_HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Resources.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.vbproj.GenerateResource.Cache
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.exe
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.xml
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.pdb
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.USER_HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.USER_REG.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.BOOKING_HISTORY.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.GUEST_LIST.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.USER_BOOKINGS.resources

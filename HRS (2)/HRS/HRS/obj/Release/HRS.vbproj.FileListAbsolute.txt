@@ -1,0 +1,16 @@
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Release\HRS.exe.config
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Release\HRS.exe
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Release\HRS.pdb
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Release\HRS.xml
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.ADMIN_HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.Resources.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.USER_HOME.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.USER_REG.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.vbproj.GenerateResource.Cache
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.exe
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.xml
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.pdb
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.BOOKING_HISTORY.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.GUEST_LIST.resources
+C:\Users\Laukik\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Release\HRS.USER_BOOKINGS.resources
